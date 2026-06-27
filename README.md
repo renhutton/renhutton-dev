@@ -1,6 +1,6 @@
 # renhutton.dev
 
-Personal portfolio site for Ren Hutton — final-year software engineering student, Wellington, NZ.
+Personal portfolio site for Ren Hutton
 
 Built with **Next.js 14** (App Router), **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
