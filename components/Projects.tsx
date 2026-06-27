@@ -13,7 +13,7 @@ const projects: Project[] = [
   {
     title: "'Hands On' - Gesture-Based Surgical Interface",
     description:
-      "An in-progress capstone project with WellOral: a gesture-based computer system enabling surgeons to access medical information in the operating theatre without physical contact. The system interprets hand movements using machine learning and translates them into real-time computer commands — built with Google's MediaPipe, integrated with Python and OpenCV. Designed to maintain sterility in clinical environments by removing the need for physical input devices.",
+      "An in-progress capstone project with WellOral: a gesture-based computer system enabling surgeons to access medical information in the operating theatre without physical contact. The system interprets hand movements using machine learning and translates them into real-time computer commands. Built with Google's MediaPipe, integrated with Python and OpenCV. Designed to maintain sterility in clinical environments by removing the need for physical input devices.",
     tech: ["Python", "MediaPipe", "OpenCV", "Machine Learning", "Computer Vision", "Raspberry Pi"],
     githubUrl: "https://github.com/renhutton/CS301.3",
   },
